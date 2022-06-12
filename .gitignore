@@ -1,0 +1,25 @@
+# Mac OS Files
+.DS_store
+
+# Python cache files
+*.pyc
+__pycache__
+
+# Db keys 
+*.key
+dbkeys.json
+*.pem
+*.crt
+
+# Virtual Env & environemental variable
+.env
+
+# Heroku files
+# Procfile
+
+# Miscellaneous 
+*.tmp
+/tmp/
+sql.py
+sheets.py
+webhooks.py
